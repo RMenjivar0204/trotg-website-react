@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          TRoTG Website!! Get Ready!! Another Change!! One More!!
+          TRoTG Website!! Get Ready!! Another Change!! One More!! This is after the Git Update!!
         </a>
       </header>
     </div>
